@@ -1,0 +1,5 @@
+RFM Approach,Silhouette Score,Calinski-Harabasz Score,Inertia
+Percentile Ranking Approach,0.433742421,4412.295389,3176.326564
+Weighted RFM Approach,0.824926607,7376.834742,2107.845721
+Equal Interval Approach,0.784673885,6642.056549,2299.57489
+Standard Deviation Approach,0.821575875,7329.289098,2119.279329
