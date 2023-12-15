@@ -22,7 +22,7 @@ st.markdown(
             font-family: 'Arial', sans-serif;
         }
         .stApp {
-            background-color: #ffffff;
+            background-color: #FFFFED;
         }
         .title {
             font-size: 36px;
